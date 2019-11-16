@@ -1,3 +1,4 @@
 <?xml version="1.0"?><updates>
-<update type="data" file="TMW.zip" hash="4c3cd0a4"/>
+<update type="data" file="TMW.zip" hash="2b75166f"/>
+<update type="music" required="no" file="TMW-music.zip" hash="263422ce" description="TMW music"/>
 </updates>
