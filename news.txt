@@ -1,4 +1,13 @@
 ##7New Updates##0
+##32020-02-06##0
+ 
+We added some new updates to The Mana Moo.
+ 
+
+* Leofin now sells Iron Ores for 1500gp
+
+ 
+-##2Archios##0
 ##32019-11-16##0
  
 We added some new updates to The Mana Moo.
